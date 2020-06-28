@@ -1,0 +1,25 @@
+body {
+  background-color: Azure;
+  font-family: Georgia;
+}
+h1, h2 {
+  text-align: center;
+}
+.html-tags, .html-attributes {
+  font-family: monospace;
+  background-color: Lavender;
+}
+table{
+  border-collapse: collapse;
+}
+table, th, tr, td {
+  border: 1px solid;
+}
+th {
+  background-color: LightBlue;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  lign: center;
+}
